@@ -37,6 +37,6 @@ node server.js
 ```
 
 ## 📂 License
-This project is licensed under the MIT License – use it freely, fork it, build on it, or contribute!
+This project is licensed under the MIT License – use it freely, fork it, build on it, or contribute! 
 
 
