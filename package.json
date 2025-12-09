@@ -1,13 +1,50 @@
 {
-  "name": "minecraft-like-voxel-game",
+  "name": "@refloow/voxel-game-engine",
   "version": "1.0.0",
-  "description": "",
+  "description": "Refloow™ Voxel Game Engine - A fully open-source, infinite world procedural voxel engine built in JavaScript, maintained by the Refloow Organization.",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "private": true,
+  "author": {
+    "name": "Refloow",
+    "email": "legal@refloow.com",
+    "url": "https://refloow.com"
   },
-  "author": "",
+  "contributors": [
+    {
+      "name": "Veljko Vuckovic",
+      "url": "https://github.com/Refloow"
+    }
+  ],
+  "funding": {
+    "type": "individual",
+    "url": "https://refloow.com"
+  },
+  "homepage": "https://refloow.com",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Refloow/Minecraft-Like-Voxel-Game.git"
+  },
+  "keywords": [
+    "Refloow",
+    "Refloow™",
+    "Official",
+    "Refloow Ecosystem",
+    "procedural-generation",
+    "voxel",
+    "voxel-engine",
+    "javascript-game",
+    "minecraft-clone",
+    "infinite-world"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
   "license": "MIT",
+  "years": "2025",
+  "bugs": {
+    "url": "https://github.com/Refloow/Minecraft-Like-Voxel-Game/issues"
+  },
   "dependencies": {
     "express": "^4.21.2"
   }
