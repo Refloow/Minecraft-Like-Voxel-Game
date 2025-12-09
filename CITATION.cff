@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "To ensure brand protection, please cite the Refloow™ software suite as follows:"
+title: "Refloow™ Voxel Game Engine"
+abstract: "The official open-source JavaScript voxel engine featuring infinite procedural generation, maintained by the Refloow™ Software Organization."
+authors:
+  - name: "Refloow"
+    website: "https://refloow.com"
+    email: "legal@refloow.com"
+  - family-names: "Vuckovic"
+    given-names: "Veljko"
+    affiliation: "Refloow Founder"
+version: 1.0.0
+date-released: 2025-03-21
+license: "MIT"
+repository-code: "https://github.com/Refloow/Minecraft-Like-Voxel-Game"
+url: "https://refloow.com"
+keywords:
+  - "Refloow"
+  - "Refloow™"
+  - "Official"
+  - "Voxel Engine"
+  - "Procedural Generation"
+  - "JavaScript Game"
